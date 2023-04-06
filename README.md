@@ -9,9 +9,9 @@ Key modifications include:
    - MLP
    - GCN
    - GAT
-   - H2GCN-lite
+   - H2GCN-lite (building on an implementation of H2GCN given by https://github.com/GitEventhandler/H2GCN-PyTorch)
    - GRAFF
-   - GraphCON-GRAFF
+   - GraphCON-GRAFF 
    - GraphCON-H2GCN
 -  Modifications to GraphCON-GCN and GraphCON-GAT in _**models.py**_ to report Dirichlet energy
 
