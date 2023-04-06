@@ -1,4 +1,4 @@
-# GDL Mini-Project - Does a heterophily-friendly aggregator improve GraphCON performance on heterophilic graphs?
+# GDL Mini-Project - "Does a heterophily-friendly aggregator improve GraphCON performance on heterophilic graphs?"
 
 This repository contains the code used to conduct experiments for the Geometric Deep Learning mini-project (Easter vacation 2023).
 
