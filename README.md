@@ -1,6 +1,6 @@
 # GDL Mini-Project - "Does a heterophily-friendly aggregator improve GraphCON performance on heterophilic graphs?"
 
-This repository contains the code used to conduct experiments for the Geometric Deep Learning mini-project (Easter vacation 2023) submission for candidate 1044704.
+This repository contains the code used to conduct experiments for my Geometric Deep Learning mini-project (submitted to the University of Oxford over Easter vacation 2023).
 
 The repo is a fork of https://github.com/tk-rusch/GraphCON.
 
